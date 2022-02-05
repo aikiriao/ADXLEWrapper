@@ -1,0 +1,9 @@
+/target
+/adx2le-sys/target
+/adx2le-sys/c/cri
+Cargo.lock
+*.acf
+*.acb
+*.awb
+*.swp
+*~
