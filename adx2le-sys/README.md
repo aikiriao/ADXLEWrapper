@@ -7,7 +7,7 @@
 play wav file.
 
 ```
-cargo run --exampple simple_wav_playback
+cargo run --example simple_wav_playback
 ```
 
 ### simple_acb_playback
@@ -15,5 +15,5 @@ cargo run --exampple simple_wav_playback
 play acb file.
 
 ```
-cargo run --exampple simple_acb_playback
+cargo run --example simple_acb_playback
 ```
